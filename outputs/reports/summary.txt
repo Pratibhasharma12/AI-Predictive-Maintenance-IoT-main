@@ -1,0 +1,15 @@
+AI-Powered Predictive Maintenance Pipeline Summary
+====================================================
+Selected model: random_forest
+Training F1 scores: {'logistic_regression': 0.27582089552238803, 'random_forest': 0.9889705882352942}
+Accuracy: 0.991
+Precision: 0.9464
+Recall: 0.7794
+ROC-AUC: 0.9862
+
+Top 5 maintenance alerts:
+- Type=L, tool_wear=17, torque=12.2, probability=0.968, alert=high
+- Type=L, tool_wear=203, torque=59.1, probability=0.9674, alert=high
+- Type=L, tool_wear=142, torque=8.8, probability=0.9559, alert=high
+- Type=L, tool_wear=154, torque=52.0, probability=0.954, alert=high
+- Type=L, tool_wear=32, torque=48.1, probability=0.9517, alert=high

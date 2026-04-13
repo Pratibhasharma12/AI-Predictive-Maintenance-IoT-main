@@ -1,0 +1,17 @@
+Preprocessing Summary
+========================
+Raw shape: (10000, 14)
+Processed shape: (10000, 18)
+Engineered features:
+- temperature_difference_k
+- power_proxy
+- wear_torque_interaction
+- wear_speed_ratio
+Leakage-safe dropped columns during modeling:
+- udi
+- product_id
+- twf
+- hdf
+- pwf
+- osf
+- rnf

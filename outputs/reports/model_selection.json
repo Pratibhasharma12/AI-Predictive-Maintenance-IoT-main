@@ -1,0 +1,7 @@
+{
+  "selected_model": "random_forest",
+  "training_f1_scores": {
+    "logistic_regression": 0.27582089552238803,
+    "random_forest": 0.9889705882352942
+  }
+}

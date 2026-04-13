@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+.ipynb_checkpoints/
+
+# Local dataset caches
+data/interim/
